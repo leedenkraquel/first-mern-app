@@ -12,10 +12,10 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path="/" element={ <PeopleList /> } />
-          <Route path="/edit/:id" element={ <EditPeople /> } />
-          <Route path="/car" element={ <CreateCar /> } />
-          <Route path="/user" element={ <CreateUser /> } />
+          <Route path="/first-mern-app/" element={ <PeopleList /> } />
+          <Route path="/first-mern-app/edit/:id" element={ <EditPeople /> } />
+          <Route path="/first-mern-app/car" element={ <CreateCar /> } />
+          <Route path="/first-mern-app/user" element={ <CreateUser /> } />
         </Routes>
       </Router>
     </div>
