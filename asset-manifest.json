@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-mern-app/static/css/main.5cca5045.css",
+    "main.js": "/first-mern-app/static/js/main.15b8cadb.js",
+    "static/js/787.8916439e.chunk.js": "/first-mern-app/static/js/787.8916439e.chunk.js",
+    "index.html": "/first-mern-app/index.html",
+    "main.5cca5045.css.map": "/first-mern-app/static/css/main.5cca5045.css.map",
+    "main.15b8cadb.js.map": "/first-mern-app/static/js/main.15b8cadb.js.map",
+    "787.8916439e.chunk.js.map": "/first-mern-app/static/js/787.8916439e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cca5045.css",
+    "static/js/main.15b8cadb.js"
+  ]
+}
